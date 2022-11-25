@@ -12,8 +12,6 @@ import com.bobochang.project.model.dto.user.*;
 import com.bobochang.project.model.entity.User;
 import com.bobochang.project.model.vo.UserVO;
 import com.bobochang.project.service.UserService;
-import com.bobochang.project.model.dto.*;
-import com.bobochang.project.model.dto.user.*;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.BeanUtils;
 import org.springframework.web.bind.annotation.*;
